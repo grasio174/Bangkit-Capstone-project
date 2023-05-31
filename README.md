@@ -2,9 +2,9 @@
 ### Teman Bagaya
 we thought of creating an application that can help recommend fashion according to user tastes and help them understand the latest fashion information.
 
-Project Name : **Teman Bagaya**
-Team ID : **C23-PS012**
-Team Member : 6
+Project Name : **Teman Bagaya**<br>
+Team ID : **C23-PS012**<br>
+Team Member : 6<br>
 - (ML) M333DSX0472 - Febrian Glorio Lalamentik
 - (ML) M335DSX2989 - Axel Frans Silalahi
 - (MD) A335DSX3041 - Wilky Aditia Pratama Pasang
