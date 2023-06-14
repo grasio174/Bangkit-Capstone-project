@@ -6,3 +6,4 @@ src/__pycache__/
 service/
 start_up.sh
 app.yaml
+.dockerignore
