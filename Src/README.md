@@ -1,8 +1,8 @@
-# Waras App - Your Personal Medical App - Machine Learning 🤖	
-## Bangkit Capstone Project 2022
+# Teman Bagaya  - Machine Learning 🤖	
+## Bangkit Capstone Project 2023
 
-Bangkit Capstone Team ID : C22 - PS046 <br>
-Here is our repository for Bangkit 2022 Capstone project - Machine Learning.
+Bangkit Capstone Team ID : C23 - PS012 <br>
+Here is our repository for Bangkit 2023 Capstone project - Machine Learning.
 
 ## MACHINE LEARNING SCHEDULE
 |  Task  |         Week 1         |       Week 2        |         Week 3          |         Week 4                      |
