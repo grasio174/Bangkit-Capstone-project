@@ -1,5 +1,2 @@
-# Bangkit Project Capstone
-### Teman Bagaya
-we thought of creating an application that can help recommend fashion according to user tastes and help them understand the latest fashion information.
-
-
+## Website Frontend
+The website, built using JavaScript, CSS, and HTML, is a simple and non-responsive design. It incorporates basic interactivity through JavaScript, minimal styling with CSS, and straightforward content organization using HTML. 
