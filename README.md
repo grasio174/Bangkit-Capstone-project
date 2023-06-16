@@ -6,7 +6,7 @@ Project Name : **Teman Bagaya**<br>
 Team ID : **C23-PS012**<br>
 Team Member : 6<br>
 - (ML) M333DSX0472 - Febrian Glorio Lalamentik
-- (ML) M335DSX2989 - Axel Frans Silalahi
+- (ML) M335DSX2989 - Axel Frans Silalahi (inactive)
 - (MD) A335DSX3041 - Wilky Aditia Pratama Pasang (inactive)
 - (CC) C333DSX3694 - Grasio Sandi Carel
 - (ML) M308DSY3626 - Ni Luh Ita Purnami
