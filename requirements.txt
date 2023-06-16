@@ -3,3 +3,4 @@ gunicorn
 requests
 firebase-admin
 tensorflow
+flask_cors
