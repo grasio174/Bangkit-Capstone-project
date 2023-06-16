@@ -37,7 +37,6 @@ Regression with a Deep Neural Network (DNN)
 We get the dataset from someone's GitHub repository and we also do the collection of the dataset via a questionnaire.
 
 - [Dataset 1](https://github.com/saadidrees/dataset_covid_19_symptoms/blob/master/dataset_symps_covid19.csv)
-- [Dataset 2](https://github.com/yuliusius1/waras-bangkit-capstone-2022/blob/ml-dev/Dataset/dataset_kuesioner_1.csv)
 
 ## HOW TO PREDICT
 The Machine Learning model can predict how many days a patient will recover from COVID-19 by entering several inputs:
