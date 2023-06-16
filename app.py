@@ -2,8 +2,10 @@ from flask import Flask, jsonify, request
 from src.database_app import *
 import os
 from src.load_model import predict
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 
 # set folder upload and rules 
 UPLOAD_FOLDER = 'uploads'
